@@ -14,7 +14,7 @@ with open('requirements.txt') as requirements_file:
 
 setup(
     name='tarsier-input-webapi',
-    version="0.1.0",
+    version="0.1.1",
     package_dir={'': 'lib'},
     packages=find_packages('lib'),
     author="Hiroki Mizumoto",
